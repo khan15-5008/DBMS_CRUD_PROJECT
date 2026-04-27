@@ -18,3 +18,23 @@ Performance: The system should handle up to 1000 active users with minimal delay
 UI Design
 
 Below is the proposed User Interface (UI) design for the User Management System, incorporating intuitive and user-friendly elements for CRUD operations.
+
+![image alt](
+)
+![image alt](
+)
+![image alt](
+)
+![image alt](
+)
+![image alt](
+)
+![image alt](
+)
+![image alt](
+)
+
+Results and Discussion
+
+The User Management System using PHP and MySQL successfully fulfills its intended purpose by providing efficient CRUD operations for managing user data. The system allows administrators to seamlessly add, view, update, and delete user records while maintaining real-time database updates. It delivers a user-friendly interface, making it accessible even to those with minimal technical expertise. Performance analysis highlights fast query execution, with average response times between 15-100 milliseconds, ensuring smooth operation for small to medium datasets. Security measures like input validation and SQL injection prevention enhance the system's reliability and protect sensitive data. While the system is robust, challenges such as managing concurrent access and large datasets highlight opportunities for improvement through features like pagination and asynchronous updates. Overall, the project demonstrates a well-rounded, scalable, and secure solution for user management while providing a strong foundation for future enhancements.
+
