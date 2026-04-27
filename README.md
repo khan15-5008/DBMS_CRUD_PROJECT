@@ -24,7 +24,7 @@ Home_page
 )
 ![image alt](https://github.com/khan15-5008/DBMS_CRUD_PROJECT/blob/5db0cfaa5ece266211d8ebcf50f0241e5440c5ec/Screenshot%202026-04-27%20201558.png
 )
-![image alt](
+![image alt](https://github.com/khan15-5008/DBMS_CRUD_PROJECT/blob/e808fd34c9b69787cf16a1356b335a74f7da215c/Screenshot%202026-04-27%20201626.png
 )
 ![image alt](
 )
