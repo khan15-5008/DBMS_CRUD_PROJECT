@@ -22,17 +22,20 @@ Below is the proposed User Interface (UI) design for the User Management System,
 Home_page
 ![image alt](https://github.com/khan15-5008/DBMS_CRUD_PROJECT/blob/6bfa79c50bad8335b06f06433cfac39c3e3b7116/Screenshot%202026-04-27%20201520.png
 )
+Add User Page:
+
 ![image alt](https://github.com/khan15-5008/DBMS_CRUD_PROJECT/blob/5db0cfaa5ece266211d8ebcf50f0241e5440c5ec/Screenshot%202026-04-27%20201558.png
 )
+Edit User Page:
 ![image alt](https://github.com/khan15-5008/DBMS_CRUD_PROJECT/blob/e808fd34c9b69787cf16a1356b335a74f7da215c/Screenshot%202026-04-27%20201626.png
 )
+Delete User Confirmation page:
+
 ![image alt](https://github.com/khan15-5008/DBMS_CRUD_PROJECT/blob/557cbde0d662e7e529062cb154912325cb2cfb61/Screenshot%202026-04-27%20201659.png
 )
-![image alt](
-)
-![image alt](
-)
-![image alt](
+User delete successfully:
+
+![image alt](https://github.com/khan15-5008/DBMS_CRUD_PROJECT/blob/315da3095098361b8cebe4f543aab0cefbcc2101/Screenshot%202026-04-27%20201722.png
 )
 
 Results and Discussion
