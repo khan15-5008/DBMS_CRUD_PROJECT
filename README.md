@@ -19,7 +19,8 @@ UI Design
 
 Below is the proposed User Interface (UI) design for the User Management System, incorporating intuitive and user-friendly elements for CRUD operations.
 
-![image alt](
+Home_page
+![image alt](https://github.com/khan15-5008/DBMS_CRUD_PROJECT/blob/6bfa79c50bad8335b06f06433cfac39c3e3b7116/Screenshot%202026-04-27%20201520.png
 )
 ![image alt](
 )
