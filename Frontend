@@ -1,0 +1,142 @@
+/* Basic Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-top: 30px;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    font-size: 2em;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: white;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+.btn {
+    padding: 8px 16px;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 4px;
+    color: white;
+}
+
+.btn-primary {
+    background-color: #3498db;
+}
+
+.btn-edit {
+    background-color: #f39c12;
+}
+
+.btn-delete {
+    background-color: #e74c3c;
+}
+
+.btn-home {
+    background-color: #2ecc71;
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* Form Styling */
+form {
+    margin-top: 20px;
+}
+
+input[type="text"], input[type="email"] {
+    padding: 10px;
+    width: 100%;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #3498db;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #222;  /* Dark background for a professional look */
+    color: #ddd;  /* Light text color for contrast */
+    padding: 40px 0;  /* Adequate padding to space out the footer content */
+    font-size: 14px;
+    margin-top: 40px;  /* Space between the main content and the footer */
+    border-top: 2px solid #444;  /* Subtle separation from content */
+    text-align: center;  /* Center-align the footer content */
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Footer content container */
+.footer-content {
+    max-width: 900px;  /* Limit width to match content */
+    margin: 0 auto;  /* Center the content */
+    line-height: 1.8;  /* Add more line height for better readability */
+}
+
+/* Text and information */
+.footer-content p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.footer-content p strong {
+    font-size: 16px;
+    display: block;  /* Display the heading as a block for better separation */
+    margin-bottom: 10px;
+}
+
+.footer-content .footer-text {
+    margin-top: 15px;
+    font-size: 13px;
+}
+
+/* Link styles (if any) */
+.footer-content a {
+    color: #3498db;  /* Light blue color for links */
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.footer-content a:hover {
+    text-decoration: underline;  /* Underline effect on hover for links */
+}
