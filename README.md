@@ -22,7 +22,7 @@ Below is the proposed User Interface (UI) design for the User Management System,
 Home_page
 ![image alt](https://github.com/khan15-5008/DBMS_CRUD_PROJECT/blob/6bfa79c50bad8335b06f06433cfac39c3e3b7116/Screenshot%202026-04-27%20201520.png
 )
-![image alt](
+![image alt](https://github.com/khan15-5008/DBMS_CRUD_PROJECT/blob/5db0cfaa5ece266211d8ebcf50f0241e5440c5ec/Screenshot%202026-04-27%20201558.png
 )
 ![image alt](
 )
